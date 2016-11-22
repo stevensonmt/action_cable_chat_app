@@ -1,0 +1,11 @@
+# message1:
+#   content: testing
+#   user_id: 1
+#
+# message2:
+#   content: @example2
+#   user_id: 1
+#
+# message3:
+#   content: @example1
+#   user_id: 2
