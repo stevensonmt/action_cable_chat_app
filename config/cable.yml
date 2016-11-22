@@ -6,4 +6,4 @@ test:
 
 production:
   adapter: redis
-  url: redis://redistogo:ba971f1a7cb96468830661dfaaf5c555@sculpin.redistogo.com:10975/
+  url: redis://redistogo:ebb57bd1fbcb94f160960025bdaad77d@crestfish.redistogo.com:10446/
